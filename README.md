@@ -46,4 +46,4 @@ A technically perfect, highly secure LLM wrapper is financially worthless if hum
 
 To completely bypass Pilot Purgatory and deploy AI with unprecedented velocity and legal safety, initiate contact now.
 
-([Click to open my Google Calendar and schedule your free discivery call.](https://calendar.app.google/ANb76KDuvg4J7LS28))
+([Click to open my Google Calendar and schedule your free discovery call.](https://calendar.app.google/ANb76KDuvg4J7LS28))
