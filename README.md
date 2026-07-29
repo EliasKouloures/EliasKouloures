@@ -1,49 +1,54 @@
-# **⚡ MULTIDISCIPLINARY AI FRAMEWORK: Escaping Pilot Purgatory**
+# Multidisciplinary AI Architect: First Principles, EU-Native
 
-## **🛑 The Market Problem: The 95% Failure Rate**
+I build AI systems that reach production and survive an audit. Strategy, architecture, compliance and creative execution from one person instead of four agencies.
 
-Currently, **95% of corporate Generative AI pilots definitively fail** to deliver measurable financial returns. Global enterprises are sinking billions of dollars into disjointed, poorly planned proof-of-concepts that stall indefinitely in "Pilot Purgatory." This systemic failure is driven by a fatal combination of rigid corporate thinking, highly siloed departmental structures, generic LLM wrappers that ignore core workflows, and paralyzing fears surrounding non-compliance with the **EU AI Act and GDPR**.
+## The problem I work on
 
-The average enterprise takes **8 full months** to push a fragile AI prototype to a production environment. In the modern technological landscape, an 8-month deployment cycle guarantees obsolescence.
+Most enterprise AI pilots never produce measurable return. The failure is rarely the model. It is siloed ownership, generic wrappers bolted onto workflows nobody mapped, and unresolved EU AI Act and GDPR questions that stall deployment for months.
 
-## **🚀 The Solution: Silicon Valley Speed \+ European Safeguards \+ Award-Winning Creativity**
+I start at the root cause instead of optimising a broken process.
 
-This methodology completely discards the traditional, highly fragmented consulting model. Engineered by a multidisciplinary architect possessing a distinct neurodivergent advantage in parallel system thinking, this framework seamlessly bridges deep technical IT, high-level business strategy, and world-class brand execution into a single, hyper-efficient operational node.
+## What I have shipped
 
-### **📊 Empirical Validation Metrics**
+| Work | Result |
+|---|---|
+| B2B assistant concept for SAMSUNG retail | 7,200 German stores covered, brief to full proposal in 8 days |
+| Commerzbank venture platform 360X | Live in 2 weeks, wording aligned with BaFin and Deutsche Börse requirements |
+| RevOps automation, 6-venue hospitality group | B2B response time from 3-5 days to 19 minutes, running cost under 1 EUR/day for ~150 emails |
+| COBI go-to-market | 13 markets, 401% Kickstarter funding, 250+ press hits, path to 9M EUR VC and a Bosch acquisition |
+| Creative direction | 24 international awards, including Cannes Lions, Eurobest, ADC and Red Dot |
 
-I do not deal in theoretical consulting or high-level academic frameworks. I deal exclusively in hard, verifiable market execution:
+## How I work
 
-| Metric | Global Enterprise Average | This Framework |
-| :---- | :---- | :---- |
-| **POC to Production Velocity** | 8 Months | **8 Days** (Samsung RAG Bot) |
-| **Operational Scale** | Isolated Sandboxes | **7,200 Retail Locations** |
-| **Go-To-Market Execution** | Quarters to Years | **2 Weeks** (Commerzbank 360X) |
-| **Brand Integration & UX** | Generic Chat Interfaces | **24 Int. Awards** (Cannes, Red Dot) |
-| **Capital Efficiency** | Heavy, Wasted R\&D Burn | **401% Kickstarter to €9M VC** |
+**First principles.** I decompose a system to its base truths before designing the fix. My perspective is shaped by being autistic with ADHD: I see structure and root cause where a process looks like chaos, and I have little patience for solutions that only look like solutions.
 
-## **🧠 Core Architecture & Operational Ideology**
+**Compliance by architecture.** GDPR and EU AI Act requirements go into the design, not into a review at the end. Transparency obligations, data minimisation and documentation are structural choices. Treating them as such removes the legal gridlock that stalls most deployments.
 
-### **1\. First-Principles System Thinking**
+**Local-first where it matters.** Not every use case needs a US cloud. [secure-ai-ssistant](https://github.com/EliasKouloures/secure-ai-ssistant) runs entirely on the hardware of the institution that uses it: no data transfer, no per-token cost, a human in the loop before anything is sent.
 
-I do not attempt to optimize fundamentally broken legacy systems. Utilizing a highly unique neurodivergent perspective (Asperger's \+ ADHD), I deconstruct enterprise bottlenecks to their absolute fundamental truths. This cognitive architecture allows for hyper-fast pattern recognition and the engineering of elegant solutions that neurotypical, heavily bureaucratized corporate teams consistently miss.
+**Adoption is part of the engineering.** A technically sound system that people refuse to use returns nothing. Interface, wording and tone are design decisions with measurable consequences.
 
-### **2\. Native Compliance (EU-Ready Architecture)**
+## European policy work
 
-Compliance is never a feature bolted on at the end of the software development lifecycle. **GDPR** protocols and **EU AI Act** requirements (including strict transparency mandates, copyright data tracking, and data protection impact assessments) are woven intrinsically into the foundational architecture of the models I deploy. This proactive engineering completely eliminates legal gridlock and allows for rapid, fearless enterprise scaling.
+Contributor to the **TRANSFORM** project (EU CERV programme), WP9 Ethical Consideration Panels, coordinated by the Comparative Research Network e.V. in Berlin. My contributions are cited by name in deliverable D9.1 on the future of work in Europe, including the argument that what AI removes first is not jobs as such, but mediocrity in routine cognitive work.
 
-### **3\. Human-Centric Output**
+## Open artefacts
 
-A technically perfect, highly secure LLM wrapper is financially worthless if human employees and customers refuse to adopt it. By deeply integrating award-winning creative direction (Cannes Lions, Eurobest, ADC), the UI, UX, and brand voice of our AI agents guarantee immediate market traction, eliminating the "cultural debt" that plagues standard IT deployments.
+Everything below is free, public and openly licensed. No account, no registration, no cost.
 
-## **⚙️ Deployment Strategy Protocol**
+- [OpenAI_GPTs](https://github.com/EliasKouloures/OpenAI_GPTs): 30+ documented, model-agnostic prompt artefacts (CC BY-SA 4.0)
+- [secure-ai-ssistant](https://github.com/EliasKouloures/secure-ai-ssistant): local-first admin assistant in Python (MIT)
+- [Prompt_Engineering](https://github.com/EliasKouloures/Prompt_Engineering): prompt library (CC BY-SA 4.0)
+- [AI_and_Biz_Insights](https://github.com/EliasKouloures/AI_and_Biz_Insights): curated insights collection (CC BY-SA 4.0)
+- [YouTube](https://youtube.com/@EliasKouloures): walkthroughs and workshop recordings
 
-1. **Identify the Core P\&L Lever:** Stop deploying AI as a novelty in high-friction sales/marketing silos. I surgically target back-office operational inefficiencies with the absolute highest probability of immediate, measurable ROI.  
-2. **Architect for the Specific Workflow:** Systems are custom-built from the ground up to integrate natively with your existing data pipelines—no generic, stateless chat interfaces.  
-3. **Execute in Days, Not Quarters:** Leverage first-principles coding and multidisciplinary strategic frameworks to launch enterprise-grade solutions at unprecedented velocity.
+Since Q2/2025 I have run around 14 open AI education formats in Berlin libraries, schools and rented venues, for more than 200 participants. All materials published afterwards.
 
-## **📬 Initiate Contact**
+## Contact
 
-To completely bypass Pilot Purgatory and deploy AI with unprecedented velocity and legal safety, initiate contact now.
+Berlin, Germany. Working in German and English, both native.
 
-([Click to open my Google Calendar and schedule your free discovery call.](https://calendar.app.google/ANb76KDuvg4J7LS28))
+- Email: [Elias.Kouloures@gmail.com](mailto:Elias.Kouloures@gmail.com)
+- Calendar: [book a call](https://calendar.app.google/ANb76KDuvg4J7LS28)
+- Website: [EliasKouloures.com](https://eliaskouloures.com)
+- LinkedIn: [in/eliaskouloures](https://linkedin.com/in/eliaskouloures)
