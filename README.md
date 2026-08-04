@@ -36,7 +36,7 @@ Contributor to the **TRANSFORM** project (EU CERV programme), WP9 Ethical Consid
 
 Everything below is free, public and openly licensed. No account, no registration, no cost.
 
-- [Agentic Knowledge Vault] (https://github.com/EliasKouloures/agentic-knowledge-vault): local-first, model-agnostic, infinitely scalable knowledge system for any LLM
+- [Agentic-Knowledge-Vault](https://github.com/EliasKouloures/agentic-knowledge-vault): local-first, model-agnostic, infinitely scalable knowledge system for any LLM
 - [OpenAI_GPTs](https://github.com/EliasKouloures/OpenAI_GPTs): 30+ documented, model-agnostic prompt artefacts (CC BY-SA 4.0)
 - [secure-ai-ssistant](https://github.com/EliasKouloures/secure-ai-ssistant): local-first admin assistant in Python (MIT)
 - [Prompt_Engineering](https://github.com/EliasKouloures/Prompt_Engineering): prompt library (CC BY-SA 4.0)
