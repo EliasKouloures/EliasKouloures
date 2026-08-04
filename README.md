@@ -13,9 +13,9 @@ I start at the root cause instead of optimising a broken process.
 | Work | Result |
 |---|---|
 | B2B assistant for SAMSUNG retail | 7,200 German stores covered, brief to full proposal in 8 days |
-| Commerzbank venture platform 360X | Live in 2 weeks, wording aligned with BaFin and Deutsche Börse requirements |
-| RevOps AI, 6-venue hospitality group | B2B response time from 3-5 days to 19 minutes, running cost under 1 EUR/day for ~150 emails |
-| COBI go-to-market | 13 markets, 401% Kickstarter funding, 250+ press hits, path to 9M EUR VC and a Bosch acquisition |
+| Commerzbank startup 360X GTM | Live in 2 weeks, wording aligned with BaFin and Deutsche Börse requirements |
+| RevOps AI automation for hospitality | B2B response time from 3-5 days to 19 minutes, running cost under 1 EUR/day for ~150 emails |
+| COBI strategy & GTM | 13 markets, 401% Kickstarter funding, 250+ press hits, path to 9M EUR VC and a Bosch acquisition |
 | Creative direction | 24 international awards, including Cannes Lions, Eurobest, ADC and Red Dot |
 
 ## How I work
