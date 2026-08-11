@@ -24,7 +24,7 @@ I start at the root cause instead of optimising a broken process.
 
 **Compliance by architecture.** GDPR and EU AI Act requirements go into the design, not into a review at the end. Transparency obligations, data minimisation and documentation are structural choices. Treating them as such removes the legal gridlock that stalls most deployments.
 
-**Local-first where it matters.** Not every use case needs a US cloud. [secure-ai-ssistant](https://github.com/EliasKouloures/secure-ai-ssistant) runs entirely on the hardware of the institution that uses it: no data transfer, no per-token cost, a human in the loop before anything is sent.
+**Local-first where it matters.** Not every use case needs a US cloud. [Agentic-Knowledge-Vault](https://github.com/EliasKouloures/agentic-knowledge-vault) and [secure-ai-ssistant](https://github.com/EliasKouloures/secure-ai-ssistant) run entirely on the hardware of the institution that use those AI tools: no data transfer, no per-token cost, a human in the loop before anything is sent.
 
 **Adoption is part of the engineering.** A technically sound system that people refuse to use returns nothing. Interface, wording and tone are design decisions with measurable consequences.
 
